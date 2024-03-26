@@ -57,7 +57,7 @@
     "recharts": "^2.5.0",
     "redis": "^4.6.5",
     "styled-components": "^5.3.9",
-    "supabase": "^1.50.4",
+    "supabase": "^1.150.6",
     "svgo": "^3.0.2",
     "util": "^0.12.5",
     "victory": "^36.6.8"
